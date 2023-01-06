@@ -8,4 +8,4 @@ function check(num1){
     }
 }
     
-
+Check(25);
