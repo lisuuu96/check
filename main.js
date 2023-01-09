@@ -1,6 +1,6 @@
 let num1 = n
 function check(num1){
-    if (n>100 & n<200){
+    if (n>100 && n<200){
     console.log('Liczba znajduje się w przedziale');
 }
     else{
